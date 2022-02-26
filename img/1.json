@@ -3,7 +3,7 @@
   "symbol": "BASC",
   "description": "A whole new existence of 6001 Bored Apes on the Solana Blockchain. All trait combinations are new and BASC is not affiliated with Yuga Labs.",
   "seller_fee_basis_points": 700,
-  "image": "https://github.com/Blackla6el/BASC/blob/main/img/1.png",
+  "image": "https://raw.githubusercontent.com/Blackla6el/BASC/main/img/1.png",
   "external_url": "https://www.boredapesolana.club",
   "edition": 2,
   "attributes": [
@@ -45,7 +45,7 @@
     ],
     "files": [
       {
-        "uri": "https://github.com/Blackla6el/BASC/blob/main/img/1.png",
+        "uri": "https://raw.githubusercontent.com/Blackla6el/BASC/main/img/1.png",
         "type": "image/png"
       }
     ]
