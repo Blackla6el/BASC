@@ -257,15 +257,6 @@ function dataTable() {
 			var tr = document.createElement("tr");
 			var td = document.createElement('td');
 			var td2 = document.createElement('td');
-			var onetimecount = 0
-			while (onetimecount < 1) {
-				td.appendChild(document.createTextNode("WALLET"));
-				td2.appendChild(document.createTextNode("COUNT"));
-				tr.appendChild(td);
-				tr.appendChild(td2);
-				table.appendChild(tr);
-				onetimecount = onetimecount + 1
-			}
 			td.appendChild(document.createTextNode(getNestedValue(sortoutside,holdercount + ".wallet")));
 			td2.appendChild(document.createTextNode(getNestedValue(sortoutside,holdercount + ".mints").length));
 		     	tr.appendChild(td);
