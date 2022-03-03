@@ -181,7 +181,8 @@ function dataTable() {
 	    var filteredHolders = holders.filter(filteroutMints)
 	    
 	    function filteroutMEWallet(obj) {
-		if (obj.owner_wallet !== "GUfCR9mK6azb9vcpsxgXyj7XRPAKJd4KMHTTVvtncGgp") {
+		if (obj.owner_wallet !== "GUfCR9mK6azb9vcpsxgXyj7XRPAKJd4KMHTTVvtncGgp" &&
+		    obj.owner_wallet !== "1BWutmTvYPwDtmw9abTkS4Ssr8no61spGAvW1X6NDix") {
 		    return true;
 		}
 		return false;
@@ -241,11 +242,17 @@ function dataTable() {
 			var tr1 = document.createElement("tr");
 			var td1 = document.createElement('td');
 			var td21 = document.createElement('td');
+		        var td31 = document.createElement('td');
+		        var td41 = document.createElement('td');
 
 			td1.appendChild(document.createTextNode("WALLET"));
 			td21.appendChild(document.createTextNode("COUNT"));
+		        td31.appendChild(document.createTextNode("GRAPE OG COUNT"));
+		        td41.appendChild(document.createTextNode("GRAPE NON-OG COUNT"));
 			tr1.appendChild(td1);
 			tr1.appendChild(td21);
+		        tr1.appendChild(td31);
+		        tr1.appendChild(td41);
 			table1.appendChild(tr1);
 	    }
 	
