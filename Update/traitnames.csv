@@ -1,0 +1,167 @@
+trait,name,corrected,count
+BACKGROUND,Solana,Solana,6001
+FUR,Black,Charcoal,638
+FUR,Blue,Cobalt,282
+FUR,Brown,,765
+FUR,Cheetah,Leopard,269
+FUR,Cream,Alabaster,443
+FUR,Dark Brown,,790
+FUR,Death Bot,Annihilator Droid,120
+FUR,Dmt,Dimitri,103
+FUR,Gold,Gold,60
+FUR,Golden Brown,Bronze ,497
+FUR,Grey,Silver,287
+FUR,Noise,Static,131
+FUR,Pink,Rose,300
+FUR,Red,Crimson,315
+FUR,Robot,Droid,183
+FUR,Tan,Beige,360
+FUR,Trippy,Psychedelic,70
+FUR,White,Ivory,226
+FUR,Zombie,Undead,162
+CLOTHES,Admirals Coat,,70
+CLOTHES,Bandolier,,117
+CLOTHES,Basc T Black,,133
+CLOTHES,Basc T Red,,129
+CLOTHES,Biker Vest,,133
+CLOTHES,Black Coat,,70
+CLOTHES,Black Holes T,,124
+CLOTHES,Black T,,172
+CLOTHES,Blue Dress,,48
+CLOTHES,Bone Necklace,Bone Jewelry,89
+CLOTHES,Bone Tee,,105
+CLOTHES,Caveman Pelt,,58
+CLOTHES,Cowboy Shirt,,46
+CLOTHES,EMPTY,None,1223
+CLOTHES,Guayabera,,109
+CLOTHES,Hawaiian,,113
+CLOTHES,Hip Hop,,55
+CLOTHES,Kings Robe,,65
+CLOTHES,Lab Coat,,55
+CLOTHES,Leather Jacket,,102
+CLOTHES,Leather Punk Jacket,,129
+CLOTHES,Lumberjack Shirt,,106
+CLOTHES,Navy Stripped T,,173
+CLOTHES,Pimp Coat,,79
+CLOTHES,Prison Jumpsuit,,125
+CLOTHES,Prom Dress,,62
+CLOTHES,Puffy Vest,,116
+CLOTHES,Rainbow Suspender,,64
+CLOTHES,Sailor Shirt,,192
+CLOTHES,Service,,127
+CLOTHES,Sleeveless Logo T,,128
+CLOTHES,Sleeveless T,,184
+CLOTHES,Smoking Jacket,,129
+CLOTHES,Spacesuit,,59
+CLOTHES,Stripped Tee,,252
+CLOTHES,Stunt Jacket,,102
+CLOTHES,Tanktop,,123
+CLOTHES,Tie Dye,,102
+CLOTHES,Toga,,119
+CLOTHES,Tuxedo Tee,,117
+CLOTHES,Tweed Suit,,49
+CLOTHES,Vietnam Jacket,,122
+CLOTHES,Wool Turtleneck,,133
+CLOTHES,Work Vest,,193
+EYES,3D,3D Glasses,320
+EYES,Angry,Annoyed,282
+EYES,Blindfold,Blindfold,152
+EYES,Bloodshot,,482
+EYES,Blue Beams,Beams,7
+EYES,Bored,,1310
+EYES,Closed,Closed,412
+EYES,Coins,Obol Eyes,224
+EYES,Crazy,Insane,262
+EYES,Cyborg,Cyborg,63
+EYES,Eyepatch,Eyepatch,174
+EYES,Heart,Love Glasses,229
+EYES,Holographic,Hologram Glasses,124
+EYES,Hypnotized,Mesmerized,117
+EYES,Laser Eyes,Laser,5
+EYES,Robot,Robotic,195
+EYES,Sad,Sorrow,342
+EYES,Scumbag,Hipster,168
+EYES,Sleepy,Drowsy,409
+EYES,Sunglasses,Shades,192
+EYES,Wide Eyed,Amazed,302
+EYES,X Eyes,X,103
+EYES,Zombie,Undead,127
+MOUTH,Boerd Unshaven Bubblegum,,51
+MOUTH,Bored,,966
+MOUTH,Bored Bubblegum,,37
+MOUTH,Bored Cigar,,115
+MOUTH,Bored Cigarette,,117
+MOUTH,Bored Dagger,,57
+MOUTH,Bored Kazoo,,60
+MOUTH,Bored Party Horn,,49
+MOUTH,Bored Pipe,,43
+MOUTH,Bored Pizza,,63
+MOUTH,Bored Solana,,504
+MOUTH,Bored Unshaved Pipe,,54
+MOUTH,Bored Unshaven,,869
+MOUTH,Bored Unshaven Cigar,,63
+MOUTH,Bored Unshaven Cigarette,,254
+MOUTH,Bored Unshaven Dagger,,61
+MOUTH,Bored Unshaven Kazoo,,60
+MOUTH,Bored Unshaven Party Horn,,54
+MOUTH,Bored Unshaven Pizza,,76
+MOUTH,Bored Unshaven Solana,,374
+MOUTH,Discomfort,,115
+MOUTH,Dumbfounded,Flabbergasted,213
+MOUTH,Grin,Smile,231
+MOUTH,Grin Diamond Grill,Diamond Grill,60
+MOUTH,Grin Gold Grill,Gold Grill,62
+MOUTH,Grin Multicolor,Rainbow Grill,65
+MOUTH,Jovial,Jolly,188
+MOUTH,Phoneme L,L,157
+MOUTH,Phoneme Oh,Oh,130
+MOUTH,Phoneme Ooo,Ooo,119
+MOUTH,Phoneme Vuh,Vuh,187
+MOUTH,Phoneme Wah,Wah,68
+MOUTH,Rage,Fury,195
+MOUTH,Small Grin,Half Smile,166
+MOUTH,Tongue Out,Protruding Tongue,118
+HATS,Army Hat,Army Cap,193
+HATS,Baby Bonet,Bonnet,111
+HATS,Bandana Blue,Bandana,66
+HATS,Basc Flipped Brim,BASC Flipped Brim,185
+HATS,Basc Hat Black,BASC Hat Black,114
+HATS,Basc Hat Red,BASC Hat Red,50
+HATS,Beanie,Slouchy Beanie,342
+HATS,Bowler,Derby,190
+HATS,Bunny Ears,Bunny Headband,118
+HATS,Commie Hat,Russian Fur Cap,194
+HATS,Cowboy Hat,Stetson,224
+HATS,Empty,None,1128
+HATS,Faux Hawk,,59
+HATS,Fez,Felt Cap,254
+HATS,Fisherman Hat,Mariner's Cap,237
+HATS,Girl Hair Short,Karen,148
+HATS,Girls Pink Hair,Pink Hair,65
+HATS,Halo,Halo,170
+HATS,Horns,Horns,124
+HATS,Irish Boho,Irish Flat Cap,120
+HATS,Kings Crown,Royal Crown,54
+HATS,Laurel Wreath,Wreath Leaf Crown,60
+HATS,Party Hat,Party Cone,73
+HATS,Party Hat 2,Elegant Party Cone,54
+HATS,Police Morotcycle Helmet,Motorcycle Helmet,53
+HATS,Prussian Helmet,Pickelhelm,59
+HATS,S&M Hat,Biker Hat,188
+HATS,Safari,Pith Helmet,121
+HATS,Sea Capitan Hat,,177
+HATS,Seaman Hat,Sailor Hat,282
+HATS,Short Mohawk,,191
+HATS,Spinner Hat,Propeller Hat,125
+HATS,Stuntman Helmet,Stuntman Helmet,126
+HATS,Sushi Chef Headband,Sushi Chef Headband,110
+HATS,Trippy Captains Hat,,73
+HATS,Vietnam Era Helmet,M1 Helmet,117
+HATS,Ww2 Pilot Helm,WW2 Pilot Helm,46
+EARRING,Cross,,42
+EARRING,Diamond Stud,,114
+EARRING,EMPTY,None,4208
+EARRING,Gold Hoop,Gold Ring,288
+EARRING,Gold Stud,,264
+EARRING,Silver Hoop,Silver Ring,628
+EARRING,Silver Stud,,457
